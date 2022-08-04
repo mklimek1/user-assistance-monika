@@ -2,7 +2,7 @@
 
 ## What is CI/CD?
 
-CI**/**CD stand for continous intregration and continous delivery/continous deployment.
+CI***/***CD stand for continous intregration and continous delivery/continous deployment.
 In very simple terms, CI is a modern software development practice in which incremental code changes are made frequently and reliably. Automated build-and-test steps triggered by CI ensure that code changes being merged into the repository are reliable.
 | Why is CI/CD important  | What is the difference between CD and CD  |
 |---|---|
