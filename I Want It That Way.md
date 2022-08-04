@@ -26,7 +26,7 @@ Am I
 ~~Your fire~~
 Your one
 ~Desire~
-==Yes I know==
+Yes I know
 ~~It's too late~~
 - [x] I want it that way
 - [ ] I want it the other way
