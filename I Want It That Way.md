@@ -44,9 +44,12 @@ Ain't nothing but a mistake
 - [x] I want in that way
 - [ ] I want it the other way
 
-*Now I can see that we've fallen apart* <br>
-**From the way that it used to be** <br>
-No matter the distance I want you to know <br>
+*Now I can see that we've fallen apart*  
+
+**From the way that it used to be**  
+
+No matter the distance I want you to know  
+
 That deep down inside of me <br>
 
 You are <br>
