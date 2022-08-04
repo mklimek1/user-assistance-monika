@@ -1,15 +1,17 @@
 # I Want It That Way
->You are
->My fire
-The one
->Desire
-Believe
->When I say
+You are	<br>
+My fire <br>
+The one <br>
+Desire <br>
+Believe <br>
+When I say <br>
+
 *I want it that way*
-But we are two worlds
-`apart`
-Can't reach to your heart
-When you say
+
+But we are two worlds <br>
+`apart`<br>
+Can't reach to your heart <br>
+When you say <br>
 - [x] I want in that way
 - [ ] I want it the other way
 
@@ -23,11 +25,13 @@ Ain't nothing but a mistake
 - [ ] I want it the other way
 
 Am I
-~~Your fire~~
+### ~~Your fire~~
 Your one
+
 ~Desire~
+
 Yes I know
-~~It's too late~~
+### ~~It's too late~~
 - [x] I want it that way
 - [ ] I want it the other way
 
@@ -40,28 +44,20 @@ Ain't nothing but a mistake
 - [x] I want in that way
 - [ ] I want it the other way
 
-*Now I can see that we've fallen apart*
-**From the way that it used to be** 
-No matter the distance I want you to know 
-That deep down inside of me
+*Now I can see that we've fallen apart* <br>
+**From the way that it used to be** <br>
+No matter the distance I want you to know <br>
+That deep down inside of me <br>
 
-You are
-~~My fire~~
-The one
-~Desire~
+You are <br>
+~~My fire~~ <br>
+The one <br>
+~Desire~ <br>
 ### You are
 ## You are 
 # You are
-Don't wanna hear you say
-: Ain't nothing but a heartache
-: Ain't nothing but a mistake
-: I never wanna hear you say
+Don't wanna hear you say <br>
+Ain't nothing but a heartache <br>
+Ain't nothing but a mistake <br>
+I never wanna hear you say <br>
 **I want it that way**
-
-
-
-
-
-
-
-
